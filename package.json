@@ -1,0 +1,15 @@
+{
+  "name": "postfix-management-api",
+  "version": "1.0.0",
+  "description": "Building a simple REST api to manage (virtual) domains, users and aliases for postfix",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "postfix","api"],
+  "author": "Steffen Park <dev@istherepie.com>",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
